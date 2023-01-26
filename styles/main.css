@@ -101,7 +101,7 @@ li{
 }
 
 #socials--list a:hover{
-    font-weight: 100;
+    font-weight: 300;
     color: var(--mainLinkColor);
     font-size: 0.9em;
 }
