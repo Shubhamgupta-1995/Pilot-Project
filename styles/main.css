@@ -89,21 +89,21 @@ li{
 #socials--list{
     display: flex;
     justify-content: space-between;
-    column-gap: 0.9em;
+    column-gap: 0 em;
     flex-wrap: wrap;
 }
 
 #socials--list a{
     font-weight: 300;
     color: var(--secondaryTextColor);
-    font-size: 0.9em;
+    font-size: 0 em;
     transition: 0.3s;
 }
 
 #socials--list a:hover{
     font-weight: 100;
     color: var(--mainLinkColor);
-    font-size: 0.1em;
+    font-size: 0 em;
 }
 
 #qualifications--list{
